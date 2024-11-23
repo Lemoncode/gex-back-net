@@ -1,0 +1,15 @@
+C:\Users\caal13\SMS GROUP\TAIHEN\145 LEMONCODE -COLABORACION\01 PROYECTO -GEX\90 PLAYGROUND\GEX-BACKEND-NET\GexBackend\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.deps.json
+C:\Users\caal13\SMS GROUP\TAIHEN\145 LEMONCODE -COLABORACION\01 PROYECTO -GEX\90 PLAYGROUND\GEX-BACKEND-NET\GexBackend\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.dll
+C:\Users\caal13\SMS GROUP\TAIHEN\145 LEMONCODE -COLABORACION\01 PROYECTO -GEX\90 PLAYGROUND\GEX-BACKEND-NET\GexBackend\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.pdb
+C:\Users\caal13\SMS GROUP\TAIHEN\145 LEMONCODE -COLABORACION\01 PROYECTO -GEX\90 PLAYGROUND\GEX-BACKEND-NET\GexBackend\ApplicationLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\caal13\SMS GROUP\TAIHEN\145 LEMONCODE -COLABORACION\01 PROYECTO -GEX\90 PLAYGROUND\GEX-BACKEND-NET\GexBackend\ApplicationLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\caal13\SMS GROUP\TAIHEN\145 LEMONCODE -COLABORACION\01 PROYECTO -GEX\90 PLAYGROUND\GEX-BACKEND-NET\GexBackend\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.csproj.AssemblyReference.cache
+C:\Users\caal13\SMS GROUP\TAIHEN\145 LEMONCODE -COLABORACION\01 PROYECTO -GEX\90 PLAYGROUND\GEX-BACKEND-NET\GexBackend\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caal13\SMS GROUP\TAIHEN\145 LEMONCODE -COLABORACION\01 PROYECTO -GEX\90 PLAYGROUND\GEX-BACKEND-NET\GexBackend\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.AssemblyInfoInputs.cache
+C:\Users\caal13\SMS GROUP\TAIHEN\145 LEMONCODE -COLABORACION\01 PROYECTO -GEX\90 PLAYGROUND\GEX-BACKEND-NET\GexBackend\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.AssemblyInfo.cs
+C:\Users\caal13\SMS GROUP\TAIHEN\145 LEMONCODE -COLABORACION\01 PROYECTO -GEX\90 PLAYGROUND\GEX-BACKEND-NET\GexBackend\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.csproj.CoreCompileInputs.cache
+C:\Users\caal13\SMS GROUP\TAIHEN\145 LEMONCODE -COLABORACION\01 PROYECTO -GEX\90 PLAYGROUND\GEX-BACKEND-NET\GexBackend\ApplicationLayer\obj\Debug\net8.0\Applicat.033E422A.Up2Date
+C:\Users\caal13\SMS GROUP\TAIHEN\145 LEMONCODE -COLABORACION\01 PROYECTO -GEX\90 PLAYGROUND\GEX-BACKEND-NET\GexBackend\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.dll
+C:\Users\caal13\SMS GROUP\TAIHEN\145 LEMONCODE -COLABORACION\01 PROYECTO -GEX\90 PLAYGROUND\GEX-BACKEND-NET\GexBackend\ApplicationLayer\obj\Debug\net8.0\refint\ApplicationLayer.dll
+C:\Users\caal13\SMS GROUP\TAIHEN\145 LEMONCODE -COLABORACION\01 PROYECTO -GEX\90 PLAYGROUND\GEX-BACKEND-NET\GexBackend\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.pdb
+C:\Users\caal13\SMS GROUP\TAIHEN\145 LEMONCODE -COLABORACION\01 PROYECTO -GEX\90 PLAYGROUND\GEX-BACKEND-NET\GexBackend\ApplicationLayer\obj\Debug\net8.0\ref\ApplicationLayer.dll

@@ -1,0 +1,25 @@
+services:
+  gex-store:
+    container_name: gex-store
+    image: mongo:8.0.3
+    volumes:
+      - mongo-data:/data/db
+    networks:
+      - gex-network
+
+  gex-backend:
+    container_name: gex-backend
+    image: gex-backend:0.0.1
+    environment:
+      - MONGO_URL=mongodb://gex-store:27017
+      - MONGO_DB=gex-api
+    networks:
+      - gex-network
+    ports:
+      - 7070:7070
+
+volumes:
+  mongo-data:
+
+networks:
+  gex-network:
