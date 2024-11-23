@@ -1,0 +1,7 @@
+**/.vs/
+**/*.user
+**/internal_logs
+.gitconfig
+.env
+
+
